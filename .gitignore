@@ -1,0 +1,12 @@
+.venv311/
+venv311/
+__pycache__/
+.ipynb_checkpoints/
+*.nii
+*.nii.gz
+*.dcm
+run_feature_extraction_UCSF_RMaC.py
+run_feature_extraction_VinDr.py
+run_feature_extraction_WAW_TACE.py
+feature_extraction_data.py
+feature_extraction.py
