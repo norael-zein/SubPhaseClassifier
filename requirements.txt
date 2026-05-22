@@ -2,3 +2,9 @@ pyradiomics
 totalsegmentator
 pandas
 openpyxl
+jupyter
+scikit-learn
+xgboost
+matplotlib
+shap
+optuna
