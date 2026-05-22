@@ -1,4 +1,4 @@
-# Total CT Phase Classifier
+# CT Subphase Classifier
 
 This project provides a pipeline for automatic CT phase and subphase classification using organ segmentation, radiomics feature extraction, and trained machine learning models.
 
